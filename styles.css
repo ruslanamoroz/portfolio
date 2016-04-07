@@ -1,4 +1,8 @@
 .container {
 	background-color: #696969;
-	min-height: 300px;
+	min-height: 580px;
+}
+.content {
+	border-color: #708090;
+
 }
