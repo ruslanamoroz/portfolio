@@ -1,8 +1,32 @@
 .container {
-	background-color: #696969;
-	min-height: 580px;
-}
-.content {
-	border-color: #708090;
+	background-color: #EEEEE0;
+	height: 90vh;
+	padding: 50px 20px 100px 20px;
+	font-size: 15px;
+	font-family: Verdana, Arial, sans-serif; 
+	}
 
+.content {
+	background-color: #FFFFFF;
+	height: 100%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.header {
+	padding-left: 30%;
+	padding-top: 5%;
+}
+
+.logo {
+	background: url(img/foto.jpg);
+	background-size: 100%;
+	width: 150px;
+	height: 150px;
+	border-radius: 70px;
+	float: left;
+}
+
+.name {
+	text-align: center;
+	font-size: 1.5em;
 }
